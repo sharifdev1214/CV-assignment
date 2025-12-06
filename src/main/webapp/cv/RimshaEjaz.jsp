@@ -4,7 +4,7 @@
 
     <!-- Profile Image -->
     <div class="text-center mb-4">
-        <img src="../images/mahad.jpg" 
+        <img src="../images/rimsha.jpg" 
              alt="Rimsha Ejaz Picture" 
              class="rounded-circle border"
              style="width: 150px; height: 150px; object-fit: cover;">
