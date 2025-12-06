@@ -22,9 +22,7 @@
           Students CV
         </a>
         <ul class="dropdown-menu">
-            <li>
-                <a class="dropdown-item" href="<%= root %>/cv/mahad.jsp">Mahad CV</a>
-            </li>
+            <li> <a class="dropdown-item" href="<%= root %>/cv/mahad.jsp">Mahad</a> </li>
         </ul>
       </li>
     </ul>
