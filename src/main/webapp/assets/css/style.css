@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 6, 2025, 10:17:38 PM
+    Author     : HP
+*/
+
+.bg-image-sec-top {
+   background: url(img/gb-images.jpg) no-repeat center center fixed;
+    background-size: cover; 
+}
+.bg-image-sec-top {
+    display: block;
+    grid: revert;
+    float: left;
+    width: 100%;
+}
+.bg-image-sec {
+    background-color: green;
+}
