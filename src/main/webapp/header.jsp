@@ -1,4 +1,6 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%
+   String root = request.getContextPath();
+%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,10 +10,9 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="<%= root %>/assets/css/style.css">
     </head>
     <body>
-        <% String root = request.getContextPath();%>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="<%= root%>/index.jsp">Student Portal</a>
@@ -23,8 +24,8 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
-                             <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
-                            
+                            <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
+                            <li><a class="dropdown-item" href="<%= root %>/cv/SundasMariaHayat.jsp">Sundas Maria Hayat</a></li>
                         </ul>
                     </li>
                 </ul>
