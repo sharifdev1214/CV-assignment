@@ -4,24 +4,24 @@
 
     <!-- Profile Image 
     <div class="text-center mb-4">
-        <img src="../images/rimsha.jpg" 
-             alt="Rimsha Ejaz Picture" 
+        <img src="../images/Saifullah.jpg" 
+             alt="Mahad Picture" 
              class="rounded-circle border"
              style="width: 150px; height: 150px; object-fit: cover;">
     </div>
 -->
-    <h2 class="text-center mb-4">Curriculum Vitae Rimsha</h2>
+    <h2 class="text-center mb-4">CurriculumVitae - Saifullah</h2>
     <hr>
 
     <h4>Personal Information</h4>
     <table class="table table-bordered">
         <tr>
             <th>Name</th>
-            <td>Rimsha Ejaz</td>
+            <td>Saifullah</td>
         </tr>
         <tr>
             <th>Registration Number</th>
-            <td>CT-232045</td>
+            <td>CT-232023</td>
         </tr>
         <tr>
             <th>Degree Program</th>
@@ -33,15 +33,15 @@
         </tr>
         <tr>
             <th>Email ID</th>
-            <td>m232045@student.au.edu.pk</td>
+            <td>232023@students.au.edu.pk</td>
         </tr>
         <tr>
             <th>Contact No</th>
-            <td>03343311054</td>
+            <td>0300-5280399</td>
         </tr>
         <tr>
             <th>Address</th>
-            <td>H# 123, Street 10, G-8/2, Islamabad, Pakistan</td>
+            <td>XYZ, I-9, Islamabad, Pakistan</td>
         </tr>
     </table>
 
@@ -50,6 +50,11 @@
         <li>Java, JSP/Servlets</li>
         <li>HTML, CSS, Bootstrap</li>
         <li>MySQL & Database Design</li>
+        <li>Data Mining</li>
+        <li>AI & ML</li>
+        <li>DevOps</li>
+        <li>Cloud Development and Security</li>
+        <li>Blockchain & Web3</li>
         <li>Problem-solving & Algorithms</li>
     </ul>
 
@@ -66,14 +71,14 @@
             <td>2023 ? Present</td>
         </tr>
         <tr>
-            <td>Intermediate (ICS Engineering)</td>
-            <td>F.G POSTGRADUATE COLLEGE</td>
-            <td>2020 ? 2022</td>
+            <td>Intermediate (FSc Pre-Engineering)</td>
+            <td>XYZ</td>
+            <td>2019 ? 2021</td>
         </tr>
         <tr>
-            <td>Matriculation (Computer Science)</td>
-            <td>Amry Public School And COLLEGE</td>
-            <td>2018 ? 2020</td>
+            <td>Matriculation (Biology)</td>
+            <td>XYZ</td>
+            <td>2017 ? 2019</td>
         </tr>
     </table>
 
@@ -82,6 +87,11 @@
         <li>Library Management System (Java + MySQL)</li>
         <li>Online CV Generator (HTML + Bootstrap)</li>
         <li>Student Attendance System</li>
+        <li>Vector Search engine</li>
+        <li>Carbon Footprint calculator </li>
+        <li>Zakat Calculator</li>
+        <li>Property Price Estimator</li>
+        <li>Allergy Advisor</li>
     </ul>
 
     <h4 class="mt-4">Languages</h4>
@@ -92,4 +102,5 @@
     </ul>
 
 </div>
+
 <%@ include file="../footer.jsp" %>

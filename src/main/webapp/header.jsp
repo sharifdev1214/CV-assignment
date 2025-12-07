@@ -23,8 +23,15 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
+<<<<<<< HEAD
                             <li><a class="dropdown-item" href="<%= root%>/cv/amna.jsp">Amna</a></li>
                              <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
+=======
+                            <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/hussainabdullah.jsp">Hussain Abdullah</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/Khuzaifa.jsp">Khuzaifa</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/saifullah.jsp">Saifullah</a></li>
+>>>>>>> 96c34d839159c8472eb746e986ba86c4a095d3fe
                             
                         </ul>
                     </li>
