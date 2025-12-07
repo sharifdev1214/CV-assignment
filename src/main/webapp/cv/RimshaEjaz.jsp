@@ -10,7 +10,7 @@
              style="width: 150px; height: 150px; object-fit: cover;">
     </div>
 -->
-    <h2 class="text-center mb-4">Curriculum Vitae ? Rimsha</h2>
+    <h2 class="text-center mb-4">Curriculum Vitae Rimsha</h2>
     <hr>
 
     <h4>Personal Information</h4>
