@@ -23,6 +23,7 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/amna.jsp">Amna</a></li>
                              <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
                             
                         </ul>

@@ -4,44 +4,44 @@
 
     <!-- Profile Image 
     <div class="text-center mb-4">
-        <img src="../images/mahad.jpg" 
-             alt="Mahad Picture" 
+        <img src="../images/amna.jpg" 
+             alt="Amna Picture" 
              class="rounded-circle border"
              style="width: 150px; height: 150px; object-fit: cover;">
     </div>
 -->
-    <h2 class="text-center mb-4">Curriculum Vitae ? Mahad</h2>
+    <h2 class="text-center mb-4">Curriculum Vitae ? Amna</h2>
     <hr>
 
     <h4>Personal Information</h4>
     <table class="table table-bordered">
         <tr>
             <th>Name</th>
-            <td>Mahad</td>
+            <td>Amna</td>
         </tr>
         <tr>
             <th>Registration Number</th>
-            <td>CT-2300123</td>
+            <td>CT-232041</td>
         </tr>
         <tr>
             <th>Degree Program</th>
-            <td>BS Software Engineer</td>
+            <td>BS Software Engineering</td>
         </tr>
         <tr>
             <th>Semester</th>
-            <td>6th Semester</td>
+            <td>5th Semester</td>
         </tr>
         <tr>
             <th>Email ID</th>
-            <td>mahad@student.au.edu.pk</td>
+            <td>232041@students.au.edu.pk</td>
         </tr>
         <tr>
             <th>Contact No</th>
-            <td>0333-1234567</td>
+            <td>0313-5391140</td>
         </tr>
         <tr>
             <th>Address</th>
-            <td>H# 123, Street 10, G-10/2, Islamabad, Pakistan</td>
+            <td>H# 139, G-15, Islamabad, Pakistan</td>
         </tr>
     </table>
 
@@ -67,13 +67,13 @@
         </tr>
         <tr>
             <td>Intermediate (FSc Pre-Engineering)</td>
-            <td>Fazaia Inter College Islamabad</td>
-            <td>2019 ? 2021</td>
+            <td>Punjab Group of College (H-11/4) Islamabad.</td>
+            <td>2020-2022</td>
         </tr>
         <tr>
             <td>Matriculation (Science)</td>
-            <td>Allied School</td>
-            <td>2017 ? 2019</td>
+            <td>Scienta Vision College G-10, Islamabad.</td>
+            <td>2018 ? 2020</td>
         </tr>
     </table>
 
@@ -81,7 +81,7 @@
     <ul>
         <li>Library Management System (Java + MySQL)</li>
         <li>Online CV Generator (HTML + Bootstrap)</li>
-        <li>Student Attendance System</li>
+        <li>Online Banking System</li>
     </ul>
 
     <h4 class="mt-4">Languages</h4>
