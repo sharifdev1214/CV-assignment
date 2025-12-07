@@ -25,7 +25,7 @@
                             <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/hussainabdullah.jsp">Hussain Abdullah</a></li>
-                            
+                            <li><a class="dropdown-item" href="<%= root%>/cv/huzaifa_qureshi.jsp">Huzaifa Qureshi</a></li>
                         </ul>
                     </li>
                 </ul>
