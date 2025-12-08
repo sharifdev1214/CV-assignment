@@ -36,7 +36,7 @@
             <td>walijah@student.au.edu.pk</td>
         </tr>
         <tr>
-            <th>Contact No</th>
+            <th>Contact-No</th>
             <td>0324-5506364</td>
         </tr>
         <tr>
