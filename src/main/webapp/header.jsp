@@ -33,7 +33,7 @@
                             <li><a class="dropdown-item" href="<%= root%>/cv/saifullah.jsp">Saifullah</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/Fatima.jsp">Fatima Shahid</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/hamza.jsp">Hamza khan</a></li>
-                            
+                            <li><a class="dropdown-item" href="<%= root%>/cv/mahadhassan.jsp">Mahad Hassan</a></li>
                         </ul>
                     </li>
                 </ul>
