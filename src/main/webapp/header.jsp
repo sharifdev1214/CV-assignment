@@ -23,7 +23,7 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a class="dropdown-item" href="<%= root%>/cv/mahad.jsp">Mahad Hassan</a>
+                                <a class="dropdown-item" href="<%= root%>/cv/hasaan.jsp">M Hasaan Ahmed</a>
                             </li>
                         </ul>
                     </li>

@@ -4,24 +4,24 @@
 
     <!-- Profile Image -->
     <div class="text-center mb-4">
-        <img src="../images/mahad.jpg" 
-             alt="Mahad Picture" 
+        <img src="../images/hasaan.jpg" 
+             alt="Hasaan Picture" 
              class="rounded-circle border"
              style="width: 150px; height: 150px; object-fit: cover;">
     </div>
 
-    <h2 class="text-center mb-4">Curriculum Vitae ? Mahad</h2>
+    <h2 class="text-center mb-4">Curriculum Vitae: Hasaan</h2>
     <hr>
 
     <h4>Personal Information</h4>
     <table class="table table-bordered">
         <tr>
             <th>Name</th>
-            <td>Mahad</td>
+            <td>Muhammad Hasaan Ahmed</td>
         </tr>
         <tr>
             <th>Registration Number</th>
-            <td>CT-2300123</td>
+            <td>CT-232055</td>
         </tr>
         <tr>
             <th>Degree Program</th>
@@ -29,19 +29,19 @@
         </tr>
         <tr>
             <th>Semester</th>
-            <td>6th Semester</td>
+            <td>5th Semester</td>
         </tr>
         <tr>
             <th>Email ID</th>
-            <td>mahad@student.au.edu.pk</td>
+            <td>232055@students.au.edu.pk</td>
         </tr>
         <tr>
             <th>Contact No</th>
-            <td>0333-1234567</td>
+            <td>03350440008</td>
         </tr>
         <tr>
             <th>Address</th>
-            <td>H# 123, Street 10, G-10/2, Islamabad, Pakistan</td>
+            <td>New Lalazar, Rawalpindi, Pakistan</td>
         </tr>
     </table>
 
@@ -63,32 +63,32 @@
         <tr>
             <td>BS Software Engineer</td>
             <td>Air University Islamabad</td>
-            <td>2023 ? Present</td>
+            <td>2023 - Present</td>
         </tr>
         <tr>
             <td>Intermediate (FSc Pre-Engineering)</td>
-            <td>Fazaia Inter College Islamabad</td>
-            <td>2019 ? 2021</td>
+            <td>Fauji Foundation College Rawalpindi</td>
+            <td>2021 - 2023</td>
         </tr>
         <tr>
             <td>Matriculation (Science)</td>
-            <td>Allied School</td>
-            <td>2017 ? 2019</td>
+            <td>Hira School</td>
+            <td>2010 - 2021</td>
         </tr>
     </table>
 
     <h4 class="mt-4">Projects</h4>
     <ul>
-        <li>Library Management System (Java + MySQL)</li>
-        <li>Online CV Generator (HTML + Bootstrap)</li>
-        <li>Student Attendance System</li>
+        <li>KeepTruckIn (Java + MySQL)</li>
+        <li>Air University Network Design</li>
+        <li>Blood donation App</li>
     </ul>
 
     <h4 class="mt-4">Languages</h4>
     <ul>
-        <li>English ? Fluent</li>
-        <li>Urdu ? Native</li>
-        <li>Punjabi ? Good</li>
+        <li>English: Fluent</li>
+        <li>Urdu: Native</li>
+        <li>Punjabi: Good</li>
     </ul>
 
 </div>
