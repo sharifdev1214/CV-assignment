@@ -22,9 +22,12 @@
                             Students CV
                         </a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a class="dropdown-item" href="<%= root%>/cv/mahad.jsp">Mahad Hassan</a>
-                            </li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/hussainabdullah.jsp">Hussain Abdullah</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/Khuzaifa.jsp">Khuzaifa</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/saifullah.jsp">Saifullah</a></li>
+                            
                         </ul>
                     </li>
                 </ul>
