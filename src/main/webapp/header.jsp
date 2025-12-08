@@ -25,10 +25,13 @@
                             <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/hussainabdullah.jsp">Hussain Abdullah</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/Zeeshan.jsp">M Zeeshan</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/Khuzaifa.jsp">Khuzaifa</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/saifullah.jsp">Saifullah</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/abdulrahman.jsp">Abdul Rahman</a></li>
                            
+                            <li><a class="dropdown-item" href="<%= root%>/cv/Fatima.jsp">Fatima Shahid</a></li>
+                            
                         </ul>
                     </li>
                 </ul>
