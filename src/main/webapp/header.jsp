@@ -22,6 +22,9 @@
                             Students CV
                         </a>
                         <ul class="dropdown-menu">
+                            <li>
+                                <a class="dropdown-item" href="<%= root%>/cv/hasaan.jsp">M Hasaan Ahmed</a>
+                            </li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/mahadmain.jsp">Mahad Main</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/RimshaEjaz.jsp">Rimsha Ejaz</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/hussainabdullah.jsp">Hussain Abdullah</a></li>
@@ -30,6 +33,8 @@
                             <li><a class="dropdown-item" href="<%= root%>/cv/saifullah.jsp">Saifullah</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/Fatima.jsp">Fatima Shahid</a></li>
                             <li><a class="dropdown-item" href="<%= root%>/cv/MAbdullah.jsp">Abdullah</a></li>
+                            <li><a class="dropdown-item" href="<%= root%>/cv/hamza.jsp">Hamza khan</a></li>
+                            
                         </ul>
                     </li>
                 </ul>
